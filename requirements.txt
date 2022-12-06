@@ -128,3 +128,4 @@ websocket-client==1.4.1
 wheel==0.37.1
 widgetsnbextension==4.0.3
 zipp==3.9.0
+catboost==1.0.5
