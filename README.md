@@ -1,19 +1,24 @@
-## 팀원
+## 1. 팀원 소개
 
 | <img src="https://user-images.githubusercontent.com/79916736/207595518-c87d8c72-e1a6-4560-91c4-77487d9d34f6.png" width=200> | <img src="https://user-images.githubusercontent.com/79916736/207595901-3ea9190c-0a6f-4ee4-b609-c423a9073996.png" width=200> | <img src="https://user-images.githubusercontent.com/79916736/207594973-a16dd2e9-a332-4088-959f-673308a29e99.png" width=200> |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 |                                           [김성연](https://github.com/KSY1526)                                            |                                           [구진범](https://github.com/jb5341)                                            |                                            [이환주](https://github.com/Leehj0530)                                            |
 
 
-## 1. 간단한 프로젝트 소개
+## 2. 간단한 프로젝트 설명
+LG U+ 아이들나라 서비스 데이터를 활용하여 고객이 다음에 시청할 콘텐츠를 추천하는 대회입니다. [링크](https://stages.ai/competitions/208/overview/description)
+나이 기반 Rule-base Model, NeuMF Model, LightGCN Model, CatBoost Model을 사용했습니다.
+
+Private 기준 216팀 중 14위를 기록해 본선 진출 성공 하였습니다.
+
+![image](https://user-images.githubusercontent.com/79916736/207597579-ea25b1de-9dcc-4cd0-bb47-177f087a66ea.png)
 
 
-
-## 2. 하드웨어 스펙/운영체제 및 플랫폼 사용
+## 3. 하드웨어 스펙/운영체제 및 플랫폼 사용
 
 Upstage V100
 
-## 3. 소스코드 구조 설명
+## 4. 소스코드 구조 설명
 
 EDA/EDA.ipynb : 전반적인 EDA 내용을 담고 있습니다.  
 EDA/personal/ : 개인적으로 진행된 실험적인 EDA 내용 입니다.  
@@ -27,7 +32,7 @@ submission/ : 모델 최종 산출물이 저장되는 장소입니다.
 requirement.txt : catboost, mf, rulebase 모델 가상환경 구축을 위한 파일입니다.  
 install.sh : lightgcn 모델 가상환경 구축을 위한 파일입니다.  
 
-## 4. 결과 재현 방법
+## 5. 결과 재현 방법
 
 ### LightGCN
 conda create -n gcn python=3.10  
