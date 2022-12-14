@@ -1,6 +1,6 @@
 ## 팀원
 
-| <img src="https://user-images.githubusercontent.com/79916736/207595518-c87d8c72-e1a6-4560-91c4-77487d9d34f6.png" width=200> | <img src="https://user-images.githubusercontent.com/79916736/207595901-3ea9190c-0a6f-4ee4-b609-c423a9073996.png" width=200> | <img src="https://user-images.githubusercontent.com/79916736/207594973-a16dd2e9-a332-4088-959f-673308a29e99.png" width=200> |
+| <img src="https://user-images.githubusercontent.com/79916736/207595518-c87d8c72-e1a6-4560-91c4-77487d9d34f6.png" width=200 height="200"> | <img src="https://user-images.githubusercontent.com/79916736/207595901-3ea9190c-0a6f-4ee4-b609-c423a9073996.png" width=200 height="200"> | <img src="https://user-images.githubusercontent.com/79916736/207594973-a16dd2e9-a332-4088-959f-673308a29e99.png" width=200 height="200"> |
 | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 |                                           [김성연](https://github.com/KSY1526)                                            |                                           [구진범](https://github.com/jb5341)                                            |                                            [이환주](https://github.com/Leehj0530)                                            |
 
