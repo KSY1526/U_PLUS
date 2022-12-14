@@ -7,11 +7,14 @@
 
 ## 2. 간단한 프로젝트 설명
 LG U+ 아이들나라 서비스 데이터를 활용하여 고객이 다음에 시청할 콘텐츠를 추천하는 대회입니다. [링크](https://stages.ai/competitions/208/overview/description)
+
 나이 기반 Rule-base Model, NeuMF Model, LightGCN Model, CatBoost Model을 사용했습니다.
 
 Private 기준 216팀 중 14위를 기록해 본선 진출 성공 하였습니다.
 
 ![image](https://user-images.githubusercontent.com/79916736/207597579-ea25b1de-9dcc-4cd0-bb47-177f087a66ea.png)
+
+자세한 내용은 Presentation 폴더의 발표자료를 참고해주세요!
 
 
 ## 3. 하드웨어 스펙/운영체제 및 플랫폼 사용
@@ -20,6 +23,7 @@ Upstage V100
 
 ## 4. 소스코드 구조 설명
 
+Presentation/ : 프로젝트 발표 자료가 있습니다.
 EDA/EDA.ipynb : 전반적인 EDA 내용을 담고 있습니다.  
 EDA/personal/ : 개인적으로 진행된 실험적인 EDA 내용 입니다.  
 input : 사용하는 데이터가 저장되어 있는 파일입니다.  
