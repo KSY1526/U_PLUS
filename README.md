@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/79916736/207603792-4c662016-d813-462f-8fad-91065e717fde.png)
 
-LG U+ 아이들나라 서비스 데이터를 활용하여 고객이 다음에 시청할 콘텐츠를 추천하는 대회입니다. [링크](https://stages.ai/competitions/208/overview/description)
+LG U+에서 주최한 대회로 아이가 다음에 시청할 콘텐츠를 추천하는 대회입니다. [링크](https://stages.ai/competitions/208/overview/description)
 
 나이 기반 Rule-base Model, NeuMF Model, LightGCN Model, CatBoost Model을 사용했습니다.
 
