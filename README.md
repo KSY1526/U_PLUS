@@ -1,8 +1,9 @@
 ## 팀원
 
-| <img src="https://user-images.githubusercontent.com/64895794/200263288-1d77b5f8-ed79-4548-9bc1-01aec2474aaa.png" width=200> | <img src="https://user-images.githubusercontent.com/64895794/200263509-9f564042-6da7-4410-a820-c8198037b0b3.png" width=200> | <img src="https://user-images.githubusercontent.com/64895794/200263683-37597e1d-10c1-483c-90f2-fb4749310e40.png" width=200> | 
+| <img src="https://user-images.githubusercontent.com/64895794/200263288-1d77b5f8-ed79-4548-9bc1-01aec2474aaa.png" width=200> | <img src="https://user-images.githubusercontent.com/64895794/200263509-9f564042-6da7-4410-a820-c8198037b0b3.png" width=200> |![image](https://user-images.githubusercontent.com/79916736/207594192-ce3e1872-8611-44c4-a11f-514f722097fc.png)
+| 
 | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-|                                           [김성연](https://github.com/ryubright)                                            |                                           [구진범](https://github.com/41ow1ives)                                            |                                            [이환주](https://github.com/kimeunh3)                                            |
+|                                           [김성연](https://github.com/KSY1526)                                            |                                           [구진범](https://github.com/jb5341)                                            |                                            [이환주](https://github.com/Leehj0530)                                            |
 
 
 ## 1. 간단한 프로젝트 소개
